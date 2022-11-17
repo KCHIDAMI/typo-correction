@@ -1,4 +1,4 @@
-# typing-error-corrector
+# typo-correction
 little snippet for a typing error corrector using levenshtein distance 
 
 this little piece of code aims to show how it is easy, using levenstein distance, to create a typing error corrector similar to those you can find in Word or other softwares.
